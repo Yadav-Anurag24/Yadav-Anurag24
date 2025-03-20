@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag!
-- 👀 I’m interested in computres and coding.
-- 🌱 I’m currently learning Data Structures.
+- 👀 I’m interested in computers and coding.
+- 🌱 I’m currently learning Data Structures And Algorithms.
 - 📫 How to reach me : msdanurag65@gmail.com
   
 
