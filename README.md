@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anurag!
 - 👀 I’m interested in computers and coding.
-- 🌱 I’m currently learning Data Structures And Algorithms.
-- 📫 How to reach me : msdanurag65@gmail.com
+- 🌱 My Domain -- Backend Development and DSA.
+- 📫 How to reach me: msdanurag65@gmail.com
   
 
 <!---
